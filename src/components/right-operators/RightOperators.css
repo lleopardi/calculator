@@ -1,0 +1,14 @@
+.right-operators {
+  grid-area: operator;
+  display: grid;
+}
+
+.key-equal {
+  background: #4f9ff4;
+  color: white;
+  border-bottom-right-radius: 16px;
+}
+
+.operator-key {
+  color: #2e6693;
+}

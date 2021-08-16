@@ -1,0 +1,13 @@
+.keyboard {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "header header header operator"
+      "number number number operator"
+      "number number number operator"
+      "number number number operator"
+      "number number number operator"
+      ;
+      height: 300px;
+  }
