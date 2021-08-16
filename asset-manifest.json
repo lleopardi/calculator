@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lleopardi/calculator/static/css/main.fca4c4fb.chunk.css",
+    "main.js": "/lleopardi/calculator/static/js/main.a7c2647f.chunk.js",
+    "main.js.map": "/lleopardi/calculator/static/js/main.a7c2647f.chunk.js.map",
+    "runtime-main.js": "/lleopardi/calculator/static/js/runtime-main.f974885c.js",
+    "runtime-main.js.map": "/lleopardi/calculator/static/js/runtime-main.f974885c.js.map",
+    "static/js/2.314af492.chunk.js": "/lleopardi/calculator/static/js/2.314af492.chunk.js",
+    "static/js/2.314af492.chunk.js.map": "/lleopardi/calculator/static/js/2.314af492.chunk.js.map",
+    "static/js/3.7f6f37be.chunk.js": "/lleopardi/calculator/static/js/3.7f6f37be.chunk.js",
+    "static/js/3.7f6f37be.chunk.js.map": "/lleopardi/calculator/static/js/3.7f6f37be.chunk.js.map",
+    "index.html": "/lleopardi/calculator/index.html",
+    "static/css/main.fca4c4fb.chunk.css.map": "/lleopardi/calculator/static/css/main.fca4c4fb.chunk.css.map",
+    "static/js/2.314af492.chunk.js.LICENSE.txt": "/lleopardi/calculator/static/js/2.314af492.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f974885c.js",
+    "static/js/2.314af492.chunk.js",
+    "static/css/main.fca4c4fb.chunk.css",
+    "static/js/main.a7c2647f.chunk.js"
+  ]
+}
