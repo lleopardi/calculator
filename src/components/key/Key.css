@@ -1,0 +1,22 @@
+.key {
+  cursor: pointer;
+  color: rgb(196, 200, 204);
+  font-size: 2rem;
+  height: 100%;
+}
+
+.key:hover {
+  background: #1a3e68;
+}
+
+.last-key {
+  grid-column: span 2;
+}
+
+.operator-key {
+  color: #2e6693;
+}
+
+.warning {
+  color: rgb(255, 102, 0);
+}
