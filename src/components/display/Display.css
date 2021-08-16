@@ -1,0 +1,43 @@
+.display {
+  height: 200px;
+  display: grid;
+  border-bottom: 2px solid #2e6693;
+  grid-template-rows: auto 1fr auto auto;
+  padding: 1rem 2rem;
+}
+
+.title {
+  color: white;
+  font-weight: bold;
+}
+
+.operators {
+  color: #6d7781;
+  font-size: 1rem;
+  align-self: end;
+  justify-self: end;
+  font-weight: bold;
+}
+
+.history{
+  text-align: right;
+  color: #6d7781;
+  padding-top: 8px;
+  font-size: 14px;
+}
+
+.currentValue {
+  color: white;
+  align-self: end;
+  justify-self: end;
+  font-weight: bold;
+  margin-top: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+.result {
+  color: white;
+  font-weight: bold;
+  font-size: 1.6rem;
+  text-align: right;
+}
